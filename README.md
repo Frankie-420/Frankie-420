@@ -3,5 +3,6 @@ I am Daniel S. Jack, an amateur programmer who enjoys making programmes to solve
 
 ## My Knowledge
 1. Python (intermediate)
-2. C (beginner) 
-3. HTML & CSS (beginner)
+2. C# (Moderate Beginner) 
+3. C (beginner) 
+4. HTML & CSS (beginner)
